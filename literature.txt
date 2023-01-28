@@ -19,4 +19,12 @@ char ---1 -- (-128 to 127)
 bool -- undefine --- true/false
 
 in integer
-out of 
+out of 2 bits or 16 bytes ( 1 bit = 8 byte)
+left most is Most sig bit denotes positive or negative number and right most least significant
+number
+so apart from MSB we have 15 positions left to fill with data 
+2^15 = 32768 since number start with 0 so -32768--0---+32767 
+
+Character
+total 8 bits out of which 7th bit is signed bit 
+so 0-127 and -128--0--127
