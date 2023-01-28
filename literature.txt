@@ -39,3 +39,20 @@ Ex - unsigned int now only takes positive nos so 2^16 = 0--- 65535
 unsigned char - 0--255
 long int -- 4/8 bytes
 long double -- 10bytes
+
+for floats use 12.00f else it will take default as double
+Opertors
+Arithmetic , relational. logical (&&,||, !), bitwise ( &,|,~,^) , Increment & decrement , Assignement
+Typecasting
+int a,b
+float c
+c= (float) a/b
+else we wound have got int 
+float a, b,c;
+c=a/b no loss of precision
+Imp -> mod can be done only in int values not float nos
+
+precedence top to bottom and left to right
+()
+*,/,%
++,-
