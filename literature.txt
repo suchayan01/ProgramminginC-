@@ -28,3 +28,14 @@ so apart from MSB we have 15 positions left to fill with data
 Character
 total 8 bits out of which 7th bit is signed bit 
 so 0-127 and -128--0--127
+ASCII 
+A- 65 Z-90
+a-97
+z-122
+
+modifiers
+unsigned( with int & char ) & long ( only with int)
+Ex - unsigned int now only takes positive nos so 2^16 = 0--- 65535
+unsigned char - 0--255
+long int -- 4/8 bytes
+long double -- 10bytes
