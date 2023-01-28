@@ -5,3 +5,18 @@ or at line level use std::funcname
 Cout<<
 Cin>>
 data type
+primitive 
+Integral (int , char)
+floating (gloat, double)
+userdefined( enum, structure, union, class)
+Derived(Array, pointer, reference)
+
+DataType--- size--- Range
+int -- 2 or 4 ---- (-32768 to 32767) // if turboc then it takes 2 bytes 
+float -- 4 --- (-3.4 *10^38 to 3.4*10^38)
+double -- 8 --- (-1.7*10^308 to 1.7 * 10^ 308)
+char ---1 -- (-128 to 127)
+bool -- undefine --- true/false
+
+in integer
+out of 
