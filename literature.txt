@@ -19,7 +19,7 @@ char ---1 -- (-128 to 127)
 bool -- undefine --- true/false
 
 in integer
-out of 2 bits or 16 bytes ( 1 bit = 8 byte)
+out of 2 bytes or 16 bits ( 1 byte = 8 bit)
 left most is Most sig bit denotes positive or negative number and right most least significant
 number
 so apart from MSB we have 15 positions left to fill with data 
@@ -58,3 +58,15 @@ precedence top to bottom and left to right
 +,-
 using math func
 #include<cmath> or #include<math.h>
+
+PreIncer and post incre same with decrement
+int x=5,y;
+ex y=++x;
+here first x=6 then assigned to y
+
+again if 
+y=x++;
+so y first get 5 then x becomes 6 
+
+Overflow  --- Imp
+
