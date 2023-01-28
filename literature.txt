@@ -69,4 +69,20 @@ y=x++;
 so y first get 5 then x becomes 6 
 
 Overflow  --- Imp
+bitwise
+XOR - if both bit same then 0 else 1 (^)
+left shift << mul the num by 2^ i 
+right shify >> div by 2^i
+
+Enum[ numbe of constants to be declared together] 
+and Typedef [ for remembering the type of data the variable holds]
+
+enum day {mon= 2, tue, thur=5, fri, ..}
+typedef int marks 
+typedef int roll
+ main(){
+    marks  me,m2,m3;
+    roll r1,r2,r3;
+}
+
 
