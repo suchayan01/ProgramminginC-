@@ -1,0 +1,7 @@
+iostream 
+using namespace std  
+or at line level use std::funcname
+
+Cout<<
+Cin>>
+data type
