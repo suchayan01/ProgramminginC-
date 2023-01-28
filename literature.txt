@@ -56,3 +56,5 @@ precedence top to bottom and left to right
 ()
 *,/,%
 +,-
+using math func
+#include<cmath> or #include<math.h>
