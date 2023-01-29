@@ -85,4 +85,5 @@ typedef int roll
     roll r1,r2,r3;
 }
 
+short circuit statements be careful to not include inc or decremet in second statement it may or may not be executed
 
