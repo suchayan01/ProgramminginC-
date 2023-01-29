@@ -87,3 +87,9 @@ typedef int roll
 
 short circuit statements be careful to not include inc or decremet in second statement it may or may not be executed
 
+Looping
+while
+do while 
+for 
+for each
+
